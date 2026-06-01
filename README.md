@@ -134,9 +134,15 @@ Shows backend portfolio diversity through a different tech stack, geospatial log
 
 ## What I Am Building Toward
 
-I am developing a backend-focused portfolio that shows practical experience with APIs, databases, automation, security-aware systems, infrastructure tooling, and applied software projects.
+I am building a backend-focused portfolio that demonstrates practical experience with APIs, databases, automation, security-aware systems, infrastructure tooling, GIS backends, local AI workflows, and applied software projects.
 
-My goal is to build software that is understandable, testable, documented, and useful beyond a demo screen.
+My goal is to build software that is:
+
+- Useful beyond a demo screen
+- Easy to understand
+- Testable and documented
+- Built around real workflows
+- Connected to practical backend and security use cases
 
 ---
 
@@ -144,9 +150,17 @@ My goal is to build software that is understandable, testable, documented, and u
 
 I am open to collaboration on backend, cybersecurity, GIS, automation, local AI, and infrastructure-focused projects.
 
-I am also interested in internship, junior developer, backend developer, cybersecurity analyst, technical support, and software support opportunities where I can continue building practical engineering experience.
+I am also interested in opportunities where I can continue building practical engineering experience, including:
 
-Areas I am especially interested in:
+- Backend developer roles
+- Junior developer roles
+- Cybersecurity analyst roles
+- Technical support roles
+- Software support roles
+- Internship opportunities
+- Project-based collaboration
+
+### Areas I Am Especially Interested In
 
 - Backend API development
 - Security-aware software
@@ -155,6 +169,7 @@ Areas I am especially interested in:
 - GIS and geofencing applications
 - Local AI tools
 - Dashboard and monitoring systems
+- Defensive cybersecurity tooling
 
 ---
 
