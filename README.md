@@ -75,50 +75,60 @@ I am focused on backend engineering, infrastructure, security-aware application 
 
 ZeroSOC is a lightweight home-lab SOC dashboard built with Python, SQLite, and a simple web frontend.
 
-The project monitors local system health, tracks API activity, stores security events, scans local network devices, and displays key security information through a browser dashboard.
+**Tech Focus:** Python, SQLite, REST-style APIs, API key authentication, request logging, dashboard UI, Raspberry Pi deployment
 
-Current features include:
+**What it does:**
 
-- Python backend API
-- API key authentication
-- SQLite database storage
-- Security event tracking
-- Event summaries and analytics
-- Request logging
-- Local network device scanning
-- Unknown device detection
-- Dashboard interface
-- Raspberry Pi deployment planning
+- Monitors local system health
+- Tracks backend API activity
+- Stores security events in SQLite
+- Logs API requests and authentication attempts
+- Scans local network devices
+- Detects unknown devices
+- Displays security and system data through a browser dashboard
+
+**Portfolio Value:**  
+Shows backend API design, authentication, persistent storage, request logging, defensive monitoring, local network visibility, and dashboard-connected backend workflows.
+
+---
 
 ### SentinelLLM
 
 SentinelLLM is a local AI and backend-focused assistant project built around private, local-first workflows.
 
-The project explores how local AI tools can connect to backend systems, user interfaces, prompt controls, and automation features.
+**Tech Focus:** Local AI infrastructure, backend request handling, chat interfaces, prompt controls, settings management, privacy-focused workflows
 
-Current areas of focus include:
+**What it does:**
 
-- Local AI assistant infrastructure
-- Backend request handling
-- Chat interface development
-- Prompt and settings management
-- Local model integration
-- Privacy-focused AI workflows
+- Runs local AI assistant workflows
+- Connects backend logic to a browser-based chat interface
+- Handles user prompts and model requests
+- Explores local model integration
+- Supports private, local-first AI experimentation
+- Provides a foundation for AI automation and assistant tooling
+
+**Portfolio Value:**  
+Shows experience with backend-connected AI systems, user-facing interfaces, local infrastructure, prompt handling, privacy-aware design, and applied AI workflow development.
+
+---
 
 ### GeoFence Alert API
 
 GeoFence Alert API is a backend project concept focused on geofencing, alert logic, and location-based event handling.
 
-The goal is to build a backend service that can receive location data, evaluate geofence rules, trigger alerts, and expose clean API endpoints for location-aware applications.
+**Tech Focus:** NestJS, backend APIs, geospatial logic, database-backed location data, alert workflows, API documentation
 
-Planned areas include:
+**Planned Features:**
 
-- NestJS backend development
-- Database-backed location data
-- Geofence rule evaluation
-- Alert workflows
-- API documentation
-- Backend portfolio diversity
+- Receive and process location data
+- Store geofence zones and location events
+- Evaluate whether a location enters or exits a geofence
+- Trigger alerts based on geofence rules
+- Expose clean API endpoints for location-aware applications
+- Document endpoints, request examples, and backend behavior
+
+**Portfolio Value:**  
+Shows backend portfolio diversity through a different tech stack, geospatial logic, event-driven alerting, database design, and practical API architecture.
 
 ---
 
