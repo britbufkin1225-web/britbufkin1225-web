@@ -22,7 +22,7 @@ I am focused on backend engineering, infrastructure, security-aware application 
 
 ## 🛠️ Skills & Tools
 
-### Backend Development
+### Backend, APIs & Data
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,12 +31,6 @@ I am focused on backend engineering, infrastructure, security-aware application 
   <img src="https://img.shields.io/badge/Request%20Routing-2E3440?style=for-the-badge&logo=gnometerminal&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON%20Responses-111111?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Auth%20Workflows-8B0000?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Custom%20Backend%20Services-4B5563?style=for-the-badge&logo=serverfault&logoColor=white" />
-</p>
-
-### Databases & Storage
-
-<p>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Schema%20Design-02569B?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Event%20Storage-4B0082?style=for-the-badge&logo=elastic&logoColor=white" />
@@ -45,7 +39,7 @@ I am focused on backend engineering, infrastructure, security-aware application 
   <img src="https://img.shields.io/badge/Query%20Reporting-1D4ED8?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 
-### Security & Infrastructure
+### Security, Infrastructure & Monitoring
 
 <p>
   <img src="https://img.shields.io/badge/API%20Key%20Auth-8B0000?style=for-the-badge&logo=auth0&logoColor=white" />
@@ -56,7 +50,7 @@ I am focused on backend engineering, infrastructure, security-aware application 
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
 
-### Frontend & Dashboard Work
+### Frontend, Workflow & Documentation
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -65,11 +59,6 @@ I am focused on backend engineering, infrastructure, security-aware application 
   <img src="https://img.shields.io/badge/API%20Dashboards-374151?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Status%20Cards-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Monitoring%20Views-0F766E?style=for-the-badge&logo=prometheus&logoColor=white" />
-</p>
-
-### Workflow & Documentation
-
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/README%20Writing-111827?style=for-the-badge&logo=markdown&logoColor=white" />
