@@ -171,6 +171,28 @@ I am also interested in opportunities where I can continue building practical en
 - Dashboard and monitoring systems
 - Defensive cybersecurity tooling
 
+  ---
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=britbufkin1225-web&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=britbufkin1225-web&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=britbufkin1225-web&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution graph" />
+</p>
+
+---
+
+---
+
 ---
 
 ## Contact
