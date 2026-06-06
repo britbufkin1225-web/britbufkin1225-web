@@ -1,8 +1,10 @@
 # Hi, I'm Brit
 
-Backend-focused developer and cybersecurity student building practical software across APIs, databases, automation, defensive tooling, GIS backends, and local AI systems.
+Backend-focused developer and cybersecurity student building practical software across APIs, databases, automation, defensive tooling, GIS backends, local AI systems, and technical documentation.
 
-I focus on backend engineering, infrastructure, security-aware application design, and projects that turn real-world workflows into usable systems.
+I focus on backend engineering, infrastructure, security-aware application design, repository organization, and projects that turn real-world workflows into usable systems.
+
+I also help improve GitHub repositories through cleaner README files, better project structure, clearer documentation, and more professional presentation.
 
 ---
 
@@ -15,6 +17,8 @@ I focus on backend engineering, infrastructure, security-aware application desig
 - GIS and geofencing backend systems
 - Local AI assistant infrastructure
 - Logging, authentication, request handling, and system monitoring
+- GitHub profile and repository cleanup
+- Markdown documentation and technical writing
 
 ---
 
@@ -35,6 +39,17 @@ I focus on backend engineering, infrastructure, security-aware application desig
   <img src="https://img.shields.io/badge/Log%20Storage-111827?style=for-the-badge&logo=logstash&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Filtering-0F766E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Query%20Reporting-1D4ED8?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+</p>
+
+### TypeScript, Frameworks & Backend Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Validation-7C2D12?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Service%20Layer-1F2937?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Controller%20Logic-374151?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ### Security, Infrastructure & Monitoring
@@ -152,6 +167,64 @@ Shows backend portfolio diversity through a different tech stack, geospatial log
 
 ---
 
+### Repo Cleanup Samples
+
+Repo Cleanup Samples is a documentation-focused portfolio repo that demonstrates README cleanup, Markdown formatting, repository audits, and project presentation improvements.
+
+**Tech Focus:** Markdown, GitHub documentation, README structure, technical writing, backend API documentation, repository polish
+
+**What it does:**
+
+- Shows before-and-after README improvement examples
+- Provides reusable documentation templates
+- Includes repository audit checklist concepts
+- Demonstrates client-facing project presentation
+- Highlights backend/API documentation structure
+- Supports freelance-ready documentation services
+
+**Portfolio Value:**  
+Shows practical documentation skill, GitHub cleanup process, technical editing, Markdown structure, and the ability to make repositories easier for clients, collaborators, and recruiters to understand.
+
+---
+
+## Documentation & Repository Cleanup Services
+
+I help turn rough or underdeveloped repositories into clearer, more professional project pages.
+
+My focus is practical repository improvement: making projects easier to understand, easier to navigate, and better suited for portfolios, clients, recruiters, collaborators, and technical review.
+
+Services I can help with:
+
+- GitHub profile README cleanup
+- Project README rewrites
+- Repository structure cleanup
+- Markdown formatting and visual polish
+- Badge setup and organization
+- Project descriptions and repo topics
+- API documentation
+- Setup and installation guides
+- Environment variable documentation
+- Feature documentation
+- Testing notes and checklists
+- Roadmaps and project status sections
+- Client-facing project summaries
+- Portfolio-ready project presentation
+
+---
+
+## What I Can Improve in a Repository
+
+| Area | What I Improve |
+|---|---|
+| README | Structure, clarity, formatting, badges, setup instructions, usage examples |
+| Documentation | API docs, feature notes, environment setup, testing notes, project guides |
+| GitHub Presentation | Repo description, topics, pinned repo polish, profile README layout |
+| Project Clarity | Purpose, tech stack, current status, feature list, roadmap |
+| Backend Projects | Endpoint documentation, request/response examples, setup notes |
+| Portfolio Value | Turning rough projects into cleaner, client- or recruiter-ready repositories |
+
+---
+
 ## Freelance & Client-Focused Services
 
 I can help with practical technical work such as:
@@ -165,6 +238,7 @@ I can help with practical technical work such as:
 - Simple automation scripts
 - README badges, sections, and visual polish
 - Client-facing project summaries
+- Basic GitHub Actions setup for profile or documentation workflows
 
 ---
 
@@ -180,21 +254,22 @@ I can help with practical technical work such as:
 
 ## What I Am Building Toward
 
-I am building a backend-focused portfolio that demonstrates practical experience with APIs, databases, automation, security-aware systems, infrastructure tooling, GIS backends, local AI workflows, and applied software projects.
+I am building a backend-focused portfolio that demonstrates practical experience with APIs, databases, automation, security-aware systems, infrastructure tooling, GIS backends, local AI workflows, documentation, and applied software projects.
 
-My goal is to build software that is:
+My goal is to build software and repositories that are:
 
 - Useful beyond a demo screen
 - Easy to understand
 - Testable and documented
 - Built around real workflows
 - Connected to practical backend and security use cases
+- Clear enough for clients, collaborators, and recruiters to evaluate quickly
 
 ---
 
 ## Collaboration & Opportunities
 
-I am open to collaboration on backend, cybersecurity, GIS, automation, local AI, and infrastructure-focused projects.
+I am open to collaboration on backend, cybersecurity, GIS, automation, local AI, infrastructure-focused projects, and technical documentation work.
 
 I am also interested in opportunities where I can continue building practical engineering experience, including:
 
@@ -205,6 +280,7 @@ I am also interested in opportunities where I can continue building practical en
 - Software support roles
 - Internship opportunities
 - Project-based collaboration
+- Freelance documentation and repository cleanup work
 
 ### Areas I Am Especially Interested In
 
@@ -216,10 +292,12 @@ I am also interested in opportunities where I can continue building practical en
 - Local AI tools
 - Dashboard and monitoring systems
 - Defensive cybersecurity tooling
+- GitHub repository documentation
+- Developer portfolio improvement
 
 ---
 
 ## Contact
 
 - GitHub: [@britbufkin1225-web](https://github.com/britbufkin1225-web)
-- Open to collaboration, project work, and job opportunities
+- Open to collaboration, project work, documentation cleanup, and job opportunities
