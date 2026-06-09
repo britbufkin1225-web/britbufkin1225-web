@@ -194,42 +194,25 @@ Shows backend portfolio diversity through geospatial logic, event-driven alertin
 
 ---
 
-### Local Dashboard Foundation
+### WinTidy
 
-Local Dashboard Foundation is a lightweight dashboard project focused on displaying backend status, project metrics, and local system-style information through a simple browser interface.
+WinTidy is a Windows maintenance and workflow automation project focused on organizing repeatable cleanup, diagnostic, and system review tasks through a simple local dashboard.
 
-**Tech Focus:** HTML, CSS, JavaScript, local backend data, dashboard UI, status cards, monitoring views
+**Tech Focus:** Windows workflows, automation scripts, diagnostics, cleanup routines, local dashboard UI, status cards, system checks, documentation
 
 **What it does:**
 
-* Displays local project or system status data
-* Uses dashboard cards for quick visual summaries
-* Provides a simple browser-based interface
-* Connects frontend display logic to backend-style data
-* Supports future monitoring, logging, and status views
+* Provides a local dashboard for Windows maintenance workflows
+* Displays maintenance status through simple dashboard cards
+* Organizes cleanup and diagnostic tasks into repeatable workflows
+* Supports system health review and utility-style checks
+* Documents safe maintenance steps and expected outputs
+* Creates a foundation for future automation, logging, and task history
+* Turns command-based maintenance work into a clearer browser-based interface
 
 **Portfolio Value:**
-Shows the ability to connect backend systems to clear visual interfaces instead of leaving useful data trapped in terminal goblin caves.
+Shows practical automation thinking, Windows support awareness, dashboard-connected workflow design, technical documentation, and the ability to turn routine system maintenance into a usable local tool instead of a scattered pile of “I swear this script worked last Tuesday.”
 
----
-
-### Windows Maintenance Workflow Toolkit
-
-Windows Maintenance Workflow Toolkit is a planned automation project inspired by system maintenance utilities.
-
-**Tech Focus:** Windows workflows, automation scripts, cleanup routines, diagnostics, system checks, local utility tooling
-
-**Planned Features:**
-
-* Run repeatable Windows maintenance checks
-* Organize cleanup and diagnostic workflows
-* Provide command-based utility scripts
-* Support system health review tasks
-* Document safe maintenance steps and outputs
-* Package common utility actions into a reusable workflow
-
-**Portfolio Value:**
-Shows automation thinking, workflow design, Windows support awareness, documentation discipline, and practical utility-building for everyday system maintenance tasks.
 
 ---
 
