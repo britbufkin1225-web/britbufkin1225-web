@@ -90,25 +90,23 @@ I also improve GitHub repositories through cleaner README files, better project 
 
 ## Featured Projects
 
-### Webhook Receiver + Event Processing API
+### GeoFence Alert API
 
-Webhook Receiver + Event Processing API is a backend project for receiving, validating, storing, reviewing, and processing webhook-style event records.
+GeoFence Alert API is a backend project focused on geofencing, alert logic, and location-based event handling.
 
-**Tech Focus:** NestJS, TypeScript, Prisma, SQLite, REST APIs, validation, database persistence, testing, documentation
+**Tech Focus:** NestJS, backend APIs, geospatial logic, database-backed location data, alert workflows, API documentation
 
-**What it does:**
+**Planned Features:**
 
-* Receives webhook-style event payloads
-* Validates incoming request data
-* Stores event records in SQLite through Prisma
-* Exposes endpoints for creating and retrieving events
-* Tracks event processing status
-* Supports event filtering and event summaries
-* Uses structured service/controller backend architecture
-* Includes test coverage and API documentation
+* Receive and process location data
+* Store geofence zones and location events
+* Evaluate whether a location enters or exits a geofence
+* Trigger alerts based on geofence rules
+* Expose clean API endpoints for location-aware applications
+* Document endpoints, request examples, and backend behavior
 
 **Portfolio Value:**
-Shows practical backend API development with a modern TypeScript stack, database modeling, request validation, endpoint design, service/controller structure, testing discipline, and clean repository documentation.
+Shows backend portfolio diversity through geospatial logic, event-driven alerting, database design, API architecture, and location-aware backend systems.
 
 ---
 
@@ -133,27 +131,6 @@ Shows backend experience with realistic payment-platform problems such as webhoo
 
 ---
 
-### ZeroSOC
-
-ZeroSOC is a lightweight home-lab SOC dashboard built with Python, SQLite, and a simple web frontend.
-
-**Tech Focus:** Python, SQLite, REST-style APIs, API key authentication, request logging, dashboard UI, Raspberry Pi deployment
-
-**What it does:**
-
-* Monitors local system health
-* Tracks backend API activity
-* Stores security events in SQLite
-* Logs API requests and authentication attempts
-* Scans local network devices
-* Detects unknown devices
-* Displays security and system data through a browser dashboard
-
-**Portfolio Value:**
-Shows backend API design, authentication, persistent storage, request logging, defensive monitoring, local network visibility, and dashboard-connected backend workflows.
-
----
-
 ### SentinelLLM
 
 SentinelLLM is a local AI and backend-focused assistant project built around private, local-first workflows.
@@ -174,23 +151,25 @@ Shows experience with backend-connected AI systems, user-facing interfaces, loca
 
 ---
 
-### GeoFence Alert API
+### Webhook Receiver + Event Processing API
 
-GeoFence Alert API is a backend project focused on geofencing, alert logic, and location-based event handling.
+Webhook Receiver + Event Processing API is a backend project for receiving, validating, storing, reviewing, and processing webhook-style event records.
 
-**Tech Focus:** NestJS, backend APIs, geospatial logic, database-backed location data, alert workflows, API documentation
+**Tech Focus:** NestJS, TypeScript, Prisma, SQLite, REST APIs, validation, database persistence, testing, documentation
 
-**Planned Features:**
+**What it does:**
 
-* Receive and process location data
-* Store geofence zones and location events
-* Evaluate whether a location enters or exits a geofence
-* Trigger alerts based on geofence rules
-* Expose clean API endpoints for location-aware applications
-* Document endpoints, request examples, and backend behavior
+* Receives webhook-style event payloads
+* Validates incoming request data
+* Stores event records in SQLite through Prisma
+* Exposes endpoints for creating and retrieving events
+* Tracks event processing status
+* Supports event filtering and event summaries
+* Uses structured service/controller backend architecture
+* Includes test coverage and API documentation
 
 **Portfolio Value:**
-Shows backend portfolio diversity through geospatial logic, event-driven alerting, database design, API architecture, and location-aware backend systems.
+Shows practical backend API development with a modern TypeScript stack, database modeling, request validation, endpoint design, service/controller structure, testing discipline, and clean repository documentation.
 
 ---
 
@@ -213,9 +192,28 @@ WinTidy is a Windows maintenance and workflow automation project focused on orga
 **Portfolio Value:**
 Shows practical automation thinking, Windows support awareness, dashboard-connected workflow design, technical documentation, and the ability to turn routine system maintenance into a usable local tool instead of a scattered pile of “I swear this script worked last Tuesday.”
 
-
 ---
 
+### ZeroSOC
+
+ZeroSOC is a lightweight home-lab SOC dashboard built with Python, SQLite, and a simple web frontend.
+
+**Tech Focus:** Python, SQLite, REST-style APIs, API key authentication, request logging, dashboard UI, Raspberry Pi deployment
+
+**What it does:**
+
+* Monitors local system health
+* Tracks backend API activity
+* Stores security events in SQLite
+* Logs API requests and authentication attempts
+* Scans local network devices
+* Detects unknown devices
+* Displays security and system data through a browser dashboard
+
+**Portfolio Value:**
+Shows backend API design, authentication, persistent storage, request logging, defensive monitoring, local network visibility, and dashboard-connected backend workflows.
+
+---
 
 ## Documentation & Repository Cleanup Services
 
