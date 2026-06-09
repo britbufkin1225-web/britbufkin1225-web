@@ -216,25 +216,6 @@ Shows practical automation thinking, Windows support awareness, dashboard-connec
 
 ---
 
-### Repo Cleanup Samples
-
-Repo Cleanup Samples is a documentation-focused portfolio repo that demonstrates README cleanup, Markdown formatting, repository audits, and project presentation improvements.
-
-**Tech Focus:** Markdown, GitHub documentation, README structure, technical writing, backend API documentation, repository polish
-
-**What it does:**
-
-* Shows before-and-after README improvement examples
-* Provides reusable documentation templates
-* Includes repository audit checklist concepts
-* Demonstrates client-facing project presentation
-* Highlights backend/API documentation structure
-* Supports freelance-ready documentation services
-
-**Portfolio Value:**
-Shows practical documentation skill, GitHub cleanup process, technical editing, Markdown structure, and the ability to make repositories easier for clients, collaborators, and recruiters to understand.
-
----
 
 ## Documentation & Repository Cleanup Services
 
