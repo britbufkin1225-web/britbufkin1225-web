@@ -1,24 +1,27 @@
 # Hi, I'm Brit
 
-Backend-focused developer and cybersecurity student building practical software across APIs, databases, automation, defensive tooling, GIS backends, local AI systems, and technical documentation.
+Backend-focused developer and cybersecurity student building practical software across APIs, databases, automation, defensive tooling, GIS backends, local AI systems, dashboards, and technical documentation.
 
-I focus on backend engineering, infrastructure, security-aware application design, repository organization, and projects that turn real-world workflows into usable systems.
+I focus on backend engineering, security-aware application design, database-backed systems, infrastructure tooling, repository organization, and projects that turn real-world workflows into usable software.
 
-I also help improve GitHub repositories through cleaner README files, better project structure, clearer documentation, and more professional presentation.
+I also improve GitHub repositories through cleaner README files, better project structure, clearer documentation, and more professional presentation.
 
 ---
 
 ## Current Focus
 
-- Backend API development
-- Database-backed applications
-- Automation and workflow tooling
-- Security-aware backend design
-- GIS and geofencing backend systems
-- Local AI assistant infrastructure
-- Logging, authentication, request handling, and system monitoring
-- GitHub profile and repository cleanup
-- Markdown documentation and technical writing
+* Backend API development
+* Database-backed applications
+* Payment platform and webhook systems
+* Event processing and reconciliation workflows
+* Automation and workflow tooling
+* Security-aware backend design
+* GIS and geofencing backend systems
+* Local AI assistant infrastructure
+* Dashboard and monitoring interfaces
+* Logging, authentication, request handling, and system monitoring
+* GitHub profile and repository cleanup
+* Markdown documentation and technical writing
 
 ---
 
@@ -50,6 +53,8 @@ I also help improve GitHub repositories through cleaner README files, better pro
   <img src="https://img.shields.io/badge/API%20Validation-7C2D12?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Service%20Layer-1F2937?style=for-the-badge&logo=serverless&logoColor=white" />
   <img src="https://img.shields.io/badge/Controller%20Logic-374151?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma%20Migrations-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest%20Testing-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ### Security, Infrastructure & Monitoring
@@ -85,6 +90,49 @@ I also help improve GitHub repositories through cleaner README files, better pro
 
 ## Featured Projects
 
+### Webhook Receiver + Event Processing API
+
+Webhook Receiver + Event Processing API is a backend project for receiving, validating, storing, reviewing, and processing webhook-style event records.
+
+**Tech Focus:** NestJS, TypeScript, Prisma, SQLite, REST APIs, validation, database persistence, testing, documentation
+
+**What it does:**
+
+* Receives webhook-style event payloads
+* Validates incoming request data
+* Stores event records in SQLite through Prisma
+* Exposes endpoints for creating and retrieving events
+* Tracks event processing status
+* Supports event filtering and event summaries
+* Uses structured service/controller backend architecture
+* Includes test coverage and API documentation
+
+**Portfolio Value:**
+Shows practical backend API development with a modern TypeScript stack, database modeling, request validation, endpoint design, service/controller structure, testing discipline, and clean repository documentation.
+
+---
+
+### PayFlow Ledger
+
+PayFlow Ledger is a backend project concept focused on payment-platform webhook handling, event reconciliation, and transaction review workflows.
+
+**Tech Focus:** Payment workflows, webhook ingestion, backend APIs, event processing, reconciliation logic, database design, audit-friendly records
+
+**Planned Features:**
+
+* Receive payment-provider webhook events
+* Store payment, refund, payout, and dispute-style records
+* Normalize event data from multiple providers
+* Track processed and unprocessed payment events
+* Compare received events against stored transaction records
+* Surface reconciliation status through API endpoints
+* Provide clean documentation for payment event flows
+
+**Portfolio Value:**
+Shows backend experience with realistic payment-platform problems such as webhook handling, event normalization, persistence, transaction review, reconciliation, and audit-friendly API design.
+
+---
+
 ### ZeroSOC
 
 ZeroSOC is a lightweight home-lab SOC dashboard built with Python, SQLite, and a simple web frontend.
@@ -93,37 +141,16 @@ ZeroSOC is a lightweight home-lab SOC dashboard built with Python, SQLite, and a
 
 **What it does:**
 
-- Monitors local system health
-- Tracks backend API activity
-- Stores security events in SQLite
-- Logs API requests and authentication attempts
-- Scans local network devices
-- Detects unknown devices
-- Displays security and system data through a browser dashboard
+* Monitors local system health
+* Tracks backend API activity
+* Stores security events in SQLite
+* Logs API requests and authentication attempts
+* Scans local network devices
+* Detects unknown devices
+* Displays security and system data through a browser dashboard
 
-**Portfolio Value:**  
+**Portfolio Value:**
 Shows backend API design, authentication, persistent storage, request logging, defensive monitoring, local network visibility, and dashboard-connected backend workflows.
-
----
-
-### Webhook Receiver + Event Processing API
-
-Webhook Receiver + Event Processing API is a backend project for receiving, validating, storing, and reviewing webhook-style event records.
-
-**Tech Focus:** NestJS, TypeScript, Prisma, SQLite, REST APIs, validation, database persistence, testing, documentation
-
-**What it does:**
-
-- Receives webhook-style event payloads
-- Validates incoming request data
-- Stores event records in SQLite through Prisma
-- Exposes endpoints for creating and retrieving events
-- Tracks event processing status
-- Supports structured backend development patterns
-- Demonstrates testing and documentation workflows
-
-**Portfolio Value:**  
-Shows practical backend API development with a modern TypeScript stack, database modeling, request validation, endpoint design, service/controller structure, testing discipline, and repository documentation.
 
 ---
 
@@ -135,14 +162,14 @@ SentinelLLM is a local AI and backend-focused assistant project built around pri
 
 **What it does:**
 
-- Runs local AI assistant workflows
-- Connects backend logic to a browser-based chat interface
-- Handles user prompts and model requests
-- Explores local model integration
-- Supports private, local-first AI experimentation
-- Provides a foundation for AI automation and assistant tooling
+* Runs local AI assistant workflows
+* Connects backend logic to a browser-based chat interface
+* Handles user prompts and model requests
+* Explores local model integration
+* Supports private, local-first AI experimentation
+* Provides a foundation for AI automation and assistant tooling
 
-**Portfolio Value:**  
+**Portfolio Value:**
 Shows experience with backend-connected AI systems, user-facing interfaces, local infrastructure, prompt handling, privacy-aware design, and applied AI workflow development.
 
 ---
@@ -155,15 +182,54 @@ GeoFence Alert API is a backend project focused on geofencing, alert logic, and 
 
 **Planned Features:**
 
-- Receive and process location data
-- Store geofence zones and location events
-- Evaluate whether a location enters or exits a geofence
-- Trigger alerts based on geofence rules
-- Expose clean API endpoints for location-aware applications
-- Document endpoints, request examples, and backend behavior
+* Receive and process location data
+* Store geofence zones and location events
+* Evaluate whether a location enters or exits a geofence
+* Trigger alerts based on geofence rules
+* Expose clean API endpoints for location-aware applications
+* Document endpoints, request examples, and backend behavior
 
-**Portfolio Value:**  
-Shows backend portfolio diversity through a different tech stack, geospatial logic, event-driven alerting, database design, and practical API architecture.
+**Portfolio Value:**
+Shows backend portfolio diversity through geospatial logic, event-driven alerting, database design, API architecture, and location-aware backend systems.
+
+---
+
+### Local Dashboard Foundation
+
+Local Dashboard Foundation is a lightweight dashboard project focused on displaying backend status, project metrics, and local system-style information through a simple browser interface.
+
+**Tech Focus:** HTML, CSS, JavaScript, local backend data, dashboard UI, status cards, monitoring views
+
+**What it does:**
+
+* Displays local project or system status data
+* Uses dashboard cards for quick visual summaries
+* Provides a simple browser-based interface
+* Connects frontend display logic to backend-style data
+* Supports future monitoring, logging, and status views
+
+**Portfolio Value:**
+Shows the ability to connect backend systems to clear visual interfaces instead of leaving useful data trapped in terminal goblin caves.
+
+---
+
+### Windows Maintenance Workflow Toolkit
+
+Windows Maintenance Workflow Toolkit is a planned automation project inspired by system maintenance utilities.
+
+**Tech Focus:** Windows workflows, automation scripts, cleanup routines, diagnostics, system checks, local utility tooling
+
+**Planned Features:**
+
+* Run repeatable Windows maintenance checks
+* Organize cleanup and diagnostic workflows
+* Provide command-based utility scripts
+* Support system health review tasks
+* Document safe maintenance steps and outputs
+* Package common utility actions into a reusable workflow
+
+**Portfolio Value:**
+Shows automation thinking, workflow design, Windows support awareness, documentation discipline, and practical utility-building for everyday system maintenance tasks.
 
 ---
 
@@ -175,14 +241,14 @@ Repo Cleanup Samples is a documentation-focused portfolio repo that demonstrates
 
 **What it does:**
 
-- Shows before-and-after README improvement examples
-- Provides reusable documentation templates
-- Includes repository audit checklist concepts
-- Demonstrates client-facing project presentation
-- Highlights backend/API documentation structure
-- Supports freelance-ready documentation services
+* Shows before-and-after README improvement examples
+* Provides reusable documentation templates
+* Includes repository audit checklist concepts
+* Demonstrates client-facing project presentation
+* Highlights backend/API documentation structure
+* Supports freelance-ready documentation services
 
-**Portfolio Value:**  
+**Portfolio Value:**
 Shows practical documentation skill, GitHub cleanup process, technical editing, Markdown structure, and the ability to make repositories easier for clients, collaborators, and recruiters to understand.
 
 ---
@@ -195,33 +261,33 @@ My focus is practical repository improvement: making projects easier to understa
 
 Services I can help with:
 
-- GitHub profile README cleanup
-- Project README rewrites
-- Repository structure cleanup
-- Markdown formatting and visual polish
-- Badge setup and organization
-- Project descriptions and repo topics
-- API documentation
-- Setup and installation guides
-- Environment variable documentation
-- Feature documentation
-- Testing notes and checklists
-- Roadmaps and project status sections
-- Client-facing project summaries
-- Portfolio-ready project presentation
+* GitHub profile README cleanup
+* Project README rewrites
+* Repository structure cleanup
+* Markdown formatting and visual polish
+* Badge setup and organization
+* Project descriptions and repo topics
+* API documentation
+* Setup and installation guides
+* Environment variable documentation
+* Feature documentation
+* Testing notes and checklists
+* Roadmaps and project status sections
+* Client-facing project summaries
+* Portfolio-ready project presentation
 
 ---
 
 ## What I Can Improve in a Repository
 
-| Area | What I Improve |
-|---|---|
-| README | Structure, clarity, formatting, badges, setup instructions, usage examples |
-| Documentation | API docs, feature notes, environment setup, testing notes, project guides |
-| GitHub Presentation | Repo description, topics, pinned repo polish, profile README layout |
-| Project Clarity | Purpose, tech stack, current status, feature list, roadmap |
-| Backend Projects | Endpoint documentation, request/response examples, setup notes |
-| Portfolio Value | Turning rough projects into cleaner, client- or recruiter-ready repositories |
+| Area                | What I Improve                                                               |
+| ------------------- | ---------------------------------------------------------------------------- |
+| README              | Structure, clarity, formatting, badges, setup instructions, usage examples   |
+| Documentation       | API docs, feature notes, environment setup, testing notes, project guides    |
+| GitHub Presentation | Repo description, topics, pinned repo polish, profile README layout          |
+| Project Clarity     | Purpose, tech stack, current status, feature list, roadmap                   |
+| Backend Projects    | Endpoint documentation, request/response examples, setup notes               |
+| Portfolio Value     | Turning rough projects into cleaner, client- or recruiter-ready repositories |
 
 ---
 
@@ -229,16 +295,16 @@ Services I can help with:
 
 I can help with practical technical work such as:
 
-- GitHub profile README design
-- Repository cleanup and documentation
-- Markdown documentation
-- Backend API documentation
-- Project setup and structure cleanup
-- Technical writing for developer portfolios
-- Simple automation scripts
-- README badges, sections, and visual polish
-- Client-facing project summaries
-- Basic GitHub Actions setup for profile or documentation workflows
+* GitHub profile README design
+* Repository cleanup and documentation
+* Markdown documentation
+* Backend API documentation
+* Project setup and structure cleanup
+* Technical writing for developer portfolios
+* Simple automation scripts
+* README badges, sections, and visual polish
+* Client-facing project summaries
+* Basic GitHub Actions setup for profile or documentation workflows
 
 ---
 
@@ -254,50 +320,52 @@ I can help with practical technical work such as:
 
 ## What I Am Building Toward
 
-I am building a backend-focused portfolio that demonstrates practical experience with APIs, databases, automation, security-aware systems, infrastructure tooling, GIS backends, local AI workflows, documentation, and applied software projects.
+I am building a backend-focused portfolio that demonstrates practical experience with APIs, databases, automation, security-aware systems, infrastructure tooling, GIS backends, local AI workflows, dashboards, documentation, and applied software projects.
 
 My goal is to build software and repositories that are:
 
-- Useful beyond a demo screen
-- Easy to understand
-- Testable and documented
-- Built around real workflows
-- Connected to practical backend and security use cases
-- Clear enough for clients, collaborators, and recruiters to evaluate quickly
+* Useful beyond a demo screen
+* Easy to understand
+* Testable and documented
+* Built around real workflows
+* Connected to practical backend and security use cases
+* Clear enough for clients, collaborators, and recruiters to evaluate quickly
 
 ---
 
 ## Collaboration & Opportunities
 
-I am open to collaboration on backend, cybersecurity, GIS, automation, local AI, infrastructure-focused projects, and technical documentation work.
+I am open to collaboration on backend, cybersecurity, GIS, automation, local AI, infrastructure-focused projects, payment-platform backend systems, dashboard projects, and technical documentation work.
 
 I am also interested in opportunities where I can continue building practical engineering experience, including:
 
-- Backend developer roles
-- Junior developer roles
-- Cybersecurity analyst roles
-- Technical support roles
-- Software support roles
-- Internship opportunities
-- Project-based collaboration
-- Freelance documentation and repository cleanup work
+* Backend developer roles
+* Junior developer roles
+* Cybersecurity analyst roles
+* Technical support roles
+* Software support roles
+* Internship opportunities
+* Project-based collaboration
+* Freelance documentation and repository cleanup work
 
 ### Areas I Am Especially Interested In
 
-- Backend API development
-- Security-aware software
-- Internal tools
-- Automation systems
-- GIS and geofencing applications
-- Local AI tools
-- Dashboard and monitoring systems
-- Defensive cybersecurity tooling
-- GitHub repository documentation
-- Developer portfolio improvement
+* Backend API development
+* Security-aware software
+* Payment platform backend systems
+* Webhook and event processing systems
+* Internal tools
+* Automation systems
+* GIS and geofencing applications
+* Local AI tools
+* Dashboard and monitoring systems
+* Defensive cybersecurity tooling
+* GitHub repository documentation
+* Developer portfolio improvement
 
 ---
 
 ## Contact
 
-- GitHub: [@britbufkin1225-web](https://github.com/britbufkin1225-web)
-- Open to collaboration, project work, documentation cleanup, and job opportunities
+* GitHub: [@britbufkin1225-web](https://github.com/britbufkin1225-web)
+* Open to collaboration, project work, documentation cleanup, and job opportunities
