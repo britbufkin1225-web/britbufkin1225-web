@@ -5,7 +5,7 @@
 <h1 align="center">dev-dev</h1>
 
 <p align="center">
-  Automation • Backend Development • Cybersecurity • GitHub Workflow Systems
+  Backend Development • Cybersecurity • GitHub Workflow Systems • Automation
 </p>
 
 # dev-dev here:
