@@ -86,64 +86,24 @@ I also improve GitHub repositories through cleaner README files, better project 
 
 ## Featured Projects
 
-### GeoFence Alert API
+### ZeroSOC
 
-GeoFence Alert API is a backend project focused on geofencing, alert logic, and location-based event handling.
+ZeroSOC is a lightweight home-lab SOC dashboard built with Python, SQLite, and a simple web frontend.
 
-**Tech Focus:** NestJS, backend APIs, geospatial logic, database-backed location data, alert workflows, API documentation
-
-**Planned Features:**
-
-* Receive and process location data
-* Store geofence zones and location events
-* Evaluate whether a location enters or exits a geofence
-* Trigger alerts based on geofence rules
-* Expose clean API endpoints for location-aware applications
-* Document endpoints, request examples, and backend behavior
-
-**Portfolio Value:**
-Shows backend portfolio diversity through geospatial logic, event-driven alerting, database design, API architecture, and location-aware backend systems.
-
----
-
-### PayFlow Ledger
-
-PayFlow Ledger is a backend project concept focused on payment-platform webhook handling, event reconciliation, and transaction review workflows.
-
-**Tech Focus:** Payment workflows, webhook ingestion, backend APIs, event processing, reconciliation logic, database design, audit-friendly records
-
-**Planned Features:**
-
-* Receive payment-provider webhook events
-* Store payment, refund, payout, and dispute-style records
-* Normalize event data from multiple providers
-* Track processed and unprocessed payment events
-* Compare received events against stored transaction records
-* Surface reconciliation status through API endpoints
-* Provide clean documentation for payment event flows
-
-**Portfolio Value:**
-Shows backend experience with realistic payment-platform problems such as webhook handling, event normalization, persistence, transaction review, reconciliation, and audit-friendly API design.
-
----
-
-### SentinelLLM
-
-SentinelLLM is a local AI and backend-focused assistant project built around private, local-first workflows.
-
-**Tech Focus:** Local AI infrastructure, backend request handling, chat interfaces, prompt controls, settings management, privacy-focused workflows
+**Tech Focus:** Python, SQLite, REST-style APIs, API key authentication, request logging, dashboard UI, Raspberry Pi deployment
 
 **What it does:**
 
-* Runs local AI assistant workflows
-* Connects backend logic to a browser-based chat interface
-* Handles user prompts and model requests
-* Explores local model integration
-* Supports private, local-first AI experimentation
-* Provides a foundation for AI automation and assistant tooling
+* Monitors local system health
+* Tracks backend API activity
+* Stores security events in SQLite
+* Logs API requests and authentication attempts
+* Scans local network devices
+* Detects unknown devices
+* Displays security and system data through a browser dashboard
 
 **Portfolio Value:**
-Shows experience with backend-connected AI systems, user-facing interfaces, local infrastructure, prompt handling, privacy-aware design, and applied AI workflow development.
+Shows backend API design, authentication, persistent storage, request logging, defensive monitoring, local network visibility, and dashboard-connected backend workflows.
 
 ---
 
@@ -169,6 +129,67 @@ Shows practical backend API development with a modern TypeScript stack, database
 
 ---
 
+### PayFlow Ledger
+
+PayFlow Ledger is a backend project concept focused on payment-platform webhook handling, event reconciliation, and transaction review workflows.
+
+**Tech Focus:** Payment workflows, webhook ingestion, backend APIs, event processing, reconciliation logic, database design, audit-friendly records
+
+**Planned Features:**
+
+* Receive payment-provider webhook events
+* Store payment, refund, payout, and dispute-style records
+* Normalize event data from multiple providers
+* Track processed and unprocessed payment events
+* Compare received events against stored transaction records
+* Surface reconciliation status through API endpoints
+* Provide clean documentation for payment event flows
+
+**Portfolio Value:**
+Shows backend experience with realistic payment-platform problems such as webhook handling, event normalization, persistence, transaction review, reconciliation, and audit-friendly API design.
+
+---
+
+### GeoFence Alert API
+
+GeoFence Alert API is a backend project focused on geofencing, alert logic, and location-based event handling.
+
+**Tech Focus:** NestJS, backend APIs, geospatial logic, database-backed location data, alert workflows, API documentation
+
+**Planned Features:**
+
+* Receive and process location data
+* Store geofence zones and location events
+* Evaluate whether a location enters or exits a geofence
+* Trigger alerts based on geofence rules
+* Expose clean API endpoints for location-aware applications
+* Document endpoints, request examples, and backend behavior
+
+**Portfolio Value:**
+Shows backend portfolio diversity through geospatial logic, event-driven alerting, database design, API architecture, and location-aware backend systems.
+
+---
+
+### SentinelLLM
+
+SentinelLLM is a local AI and backend-focused assistant project built around private, local-first workflows.
+
+**Tech Focus:** Local AI infrastructure, backend request handling, chat interfaces, prompt controls, settings management, privacy-focused workflows
+
+**What it does:**
+
+* Runs local AI assistant workflows
+* Connects backend logic to a browser-based chat interface
+* Handles user prompts and model requests
+* Explores local model integration
+* Supports private, local-first AI experimentation
+* Provides a foundation for AI automation and assistant tooling
+
+**Portfolio Value:**
+Shows experience with backend-connected AI systems, user-facing interfaces, local infrastructure, prompt handling, privacy-aware design, and applied AI workflow development.
+
+---
+
 ### WinTidy
 
 WinTidy is a Windows maintenance and workflow automation project focused on organizing repeatable cleanup, diagnostic, and system review tasks through a simple local dashboard.
@@ -190,24 +211,22 @@ Shows practical automation thinking, Windows support awareness, dashboard-connec
 
 ---
 
-### ZeroSOC
+### dev-dev Icon Pack
 
-ZeroSOC is a lightweight home-lab SOC dashboard built with Python, SQLite, and a simple web frontend.
+dev-dev Icon Pack is a custom developer-themed icon set designed for GitHub profiles, technical documentation, project READMEs, dashboards, and portfolio visuals.
 
-**Tech Focus:** Python, SQLite, REST-style APIs, API key authentication, request logging, dashboard UI, Raspberry Pi deployment
+**Tech Focus:** GitHub profile assets, visual documentation, developer branding, icon naming, asset organization, repository structure, Markdown usage
 
 **What it does:**
 
-* Monitors local system health
-* Tracks backend API activity
-* Stores security events in SQLite
-* Logs API requests and authentication attempts
-* Scans local network devices
-* Detects unknown devices
-* Displays security and system data through a browser dashboard
+* Provides reusable square icons for developer and backend project documentation
+* Organizes icons by clear file names and usage purpose
+* Supports GitHub README visuals, project sections, badges, and portfolio layouts
+* Creates a consistent visual language for backend, security, API, database, and workflow topics
+* Documents naming conventions and usage standards for a reusable icon asset library
 
 **Portfolio Value:**
-Shows backend API design, authentication, persistent storage, request logging, defensive monitoring, local network visibility, and dashboard-connected backend workflows.
+Shows visual documentation skill, repository organization, GitHub presentation polish, asset naming discipline, and the ability to create reusable design systems for technical projects instead of letting every README look like it was assembled during a power outage.
 
 ---
 
