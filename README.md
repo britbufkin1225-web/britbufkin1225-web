@@ -2,7 +2,7 @@
   <img src="./assets/dev-dev-gold-logo-bearing-motion.gif" alt="Dev Dev animated gold circuit logo" width="260" />
 </p>
 
-<h1 align="center">Dev Dev</h1>
+<h1 align="center">dev-dev</h1>
 
 <p align="center">
   Cybersecurity • Backend Development • Automation • GitHub Workflow Systems
