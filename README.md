@@ -7,7 +7,15 @@
 <p align="center">
   Cybersecurity • Backend Development • Automation • GitHub Workflow Systems
 </p>
-# Hi, I'm Brit
+
+# dev-dev here:
+
+
+
+“To design is to communicate clearly by whatever means you can control or master.”
+— Milton Glaser
+
+
 
 Backend-focused developer and cybersecurity student building practical software across APIs, databases, automation, defensive tooling, GIS backends, local AI systems, dashboards, and technical documentation.
 
