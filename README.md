@@ -47,61 +47,40 @@ I also improve GitHub repositories through cleaner README files, better project 
 ### Backend, APIs & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005C99?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Request%20Routing-2E3440?style=for-the-badge&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON%20Responses-111111?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth%20Workflows-8B0000?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Schema%20Design-02569B?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event%20Storage-4B0082?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Log%20Storage-111827?style=for-the-badge&logo=logstash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Filtering-0F766E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Query%20Reporting-1D4ED8?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,postgres,fastapi" height="42" />
 </p>
+
+`REST APIs` · `Request Routing` · `JSON Responses` · `Auth Workflows` · `Schema Design` · `Event Storage` · `Log Storage` · `Data Filtering` · `Query Reporting`
+
+---
 
 ### TypeScript, Frameworks & Backend Tooling
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Validation-7C2D12?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Service%20Layer-1F2937?style=for-the-badge&logo=serverless&logoColor=white" />
-  <img src="https://img.shields.io/badge/Controller%20Logic-374151?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma%20Migrations-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest%20Testing-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=typescript,nestjs,prisma,nodejs,jest" height="42" />
 </p>
+
+`API Validation` · `Service Layer` · `Controller Logic` · `Prisma Migrations` · `Testing`
+
+---
 
 ### Security, Infrastructure & Monitoring
 
 <p>
-  <img src="https://img.shields.io/badge/API%20Key%20Auth-8B0000?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Request%20Logging-111111?style=for-the-badge&logo=logstash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Defensive%20Tooling-0F172A?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Monitoring-2563EB?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Visibility-007ACC?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,docker,bash,cloudflare,prometheus,grafana" height="42" />
 </p>
+
+`API Key Auth` · `Request Logging` · `Defensive Tooling` · `System Monitoring` · `Network Visibility` · `Raspberry Pi`
+
+---
 
 ### Frontend, Workflow & Documentation
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/API%20Dashboards-374151?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status%20Cards-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring%20Views-0F766E?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/README%20Writing-111827?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/Project%20Planning-4B5563?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing%20Checklists-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployment%20Notes-065F46?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature%20Docs-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,md,vscode" height="42" />
 </p>
+
+`API Dashboards` · `Status Cards` · `Monitoring Views` · `README Writing` · `Project Planning` · `Testing Checklists` · `Deployment Notes` · `Feature Docs`
 
 ---
 
