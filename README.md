@@ -1,6 +1,6 @@
-![Dev Dev animated gold circuit logo](./assets/dev-dev-gold-logo-bearing-motion.gif)
-
 # dev-dev
+
+![Dev Dev animated gold circuit logo](./assets/dev-dev-gold-logo-bearing-motion.gif)
 
 Backend Development • Cybersecurity • GitHub Workflow Systems • Automation
 
