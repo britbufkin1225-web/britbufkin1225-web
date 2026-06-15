@@ -1,10 +1,14 @@
-# dev-dev
+<h1 align="center">dev-dev</h1>
 
-![Dev Dev animated gold circuit logo](./assets/dev-dev-gold-logo-bearing-motion.gif)
+<p align="center">
+  <img src="./assets/dev-dev-gold-logo-bearing-motion.gif" alt="Dev Dev animated gold circuit logo" width="600">
+</p>
 
-Backend Development • Cybersecurity • GitHub Workflow Systems • Automation
+<p align="center">
+  <strong>Backend Development • Cybersecurity • GitHub Workflow Systems • Automation</strong>
+</p>
 
-# dev-dev here
+<h2>dev-dev here</h2>
 
 “To design is to communicate clearly by whatever means you can control or master.”
 — Milton Glaser
