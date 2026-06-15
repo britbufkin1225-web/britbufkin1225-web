@@ -1,21 +1,13 @@
-<p align="center">
-  <img src="./assets/dev-dev-gold-logo-bearing-motion.gif" alt="Dev Dev animated gold circuit logo" width="260" />
-</p>
+![Dev Dev animated gold circuit logo](./assets/dev-dev-gold-logo-bearing-motion.gif)
 
-<h1 align="center">dev-dev</h1>
+# dev-dev
 
-<p align="center">
-  Backend Development • Cybersecurity • GitHub Workflow Systems • Automation
-</p>
+Backend Development • Cybersecurity • GitHub Workflow Systems • Automation
 
-# dev-dev here:
-
-
+# dev-dev here
 
 “To design is to communicate clearly by whatever means you can control or master.”
 — Milton Glaser
-
-
 
 Backend-focused developer and cybersecurity student building practical software across APIs, databases, automation, defensive tooling, GIS backends, local AI systems, dashboards, and technical documentation.
 
@@ -46,9 +38,7 @@ I also improve GitHub repositories through cleaner README files, better project 
 
 ### Backend, APIs & Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,postgres,fastapi" height="42" />
-</p>
+![Python, Flask, SQLite, Postgres, FastAPI](https://skillicons.dev/icons?i=python,flask,sqlite,postgres,fastapi)
 
 `REST APIs` · `Request Routing` · `JSON Responses` · `Auth Workflows` · `Schema Design` · `Event Storage` · `Log Storage` · `Data Filtering` · `Query Reporting`
 
@@ -56,9 +46,7 @@ I also improve GitHub repositories through cleaner README files, better project 
 
 ### TypeScript, Frameworks & Backend Tooling
 
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,nestjs,prisma,nodejs,jest" height="42" />
-</p>
+![TypeScript, NestJS, Prisma, Node.js, Jest](https://skillicons.dev/icons?i=typescript,nestjs,prisma,nodejs,jest)
 
 `API Validation` · `Service Layer` · `Controller Logic` · `Prisma Migrations` · `Testing`
 
@@ -66,9 +54,7 @@ I also improve GitHub repositories through cleaner README files, better project 
 
 ### Security, Infrastructure & Monitoring
 
-<p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi,linux,docker,bash,cloudflare,prometheus,grafana" height="42" />
-</p>
+![Raspberry Pi, Linux, Docker, Bash, Cloudflare, Prometheus, Grafana](https://skillicons.dev/icons?i=raspberrypi,linux,docker,bash,cloudflare,prometheus,grafana)
 
 `API Key Auth` · `Request Logging` · `Defensive Tooling` · `System Monitoring` · `Network Visibility` · `Raspberry Pi`
 
@@ -76,11 +62,17 @@ I also improve GitHub repositories through cleaner README files, better project 
 
 ### Frontend, Workflow & Documentation
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,md,vscode" height="42" />
-</p>
+![HTML, CSS, JavaScript, Git, GitHub, Markdown, VS Code](https://skillicons.dev/icons?i=html,css,js,git,github,md,vscode)
 
 `API Dashboards` · `Status Cards` · `Monitoring Views` · `README Writing` · `Project Planning` · `Testing Checklists` · `Deployment Notes` · `Feature Docs`
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=britbufkin1225-web&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=britbufkin1225-web&theme=github-dark-blue&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=britbufkin1225-web&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
@@ -288,7 +280,7 @@ I can help with practical technical work such as:
 ## Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/britbufkin1225-web/britbufkin1225-web/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/britbufkin1225-web/britbufkin1225-web/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/britbufkin1225-web/britbufkin1225-web/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/britbufkin1225-web/britbufkin1225-web/output/github-contribution-grid-snake.svg">
 </picture>
