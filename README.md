@@ -1,5 +1,9 @@
 # dev-dev
 
+<p align="center">
+  <img src="./assets/dev-dev-circle-binary.gif" alt="dev-dev binary logo" width="320" />
+</p>
+
 ## dev-dev here
 
 “To design is to communicate clearly by whatever means you can control or master.”
@@ -334,7 +338,3 @@ I am also interested in opportunities where I can continue building practical en
 
 * GitHub: [@britbufkin1225-web](https://github.com/britbufkin1225-web)
 * Open to collaboration, project work, documentation cleanup, and job opportunities
-
-<p align="center">
-  <img src="./assets/dev-dev-circle-binary.gif" alt="dev-dev binary logo" width="320" />
-</p>
