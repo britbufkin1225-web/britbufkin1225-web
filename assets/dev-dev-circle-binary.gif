@@ -1,0 +1,99 @@
+from __future__ import annotations
+
+import argparse
+import math
+import random
+from pathlib import Path
+
+from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFont
+
+
+DEFAULT_SOURCE_CANDIDATES = (
+    Path(r"C:\Users\britb\Downloads\ChatGPT Image Jun 15, 2026, 10_23_33 PM.png"),
+    Path("/mnt/data/a_clean_graphic_logo_icon_on_a_black_background.png"),
+)
+
+
+def find_source(path_arg: str | None) -> Path:
+    if path_arg:
+        path = Path(path_arg)
+        if path.exists():
+            return path
+        raise FileNotFoundError(f"Source image not found: {path}")
+
+    for path in DEFAULT_SOURCE_CANDIDATES:
+        if path.exists():
+            return path
+
+    candidates = "\n".join(f"  - {path}" for path in DEFAULT_SOURCE_CANDIDATES)
+    raise FileNotFoundError(f"No source logo found. Tried:\n{candidates}")
+
+
+def load_font(size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
+    font_candidates = (
+        r"C:\Windows\Fonts\consola.ttf",
+        r"C:\Windows\Fonts\lucon.ttf",
+        r"C:\Windows\Fonts\cour.ttf",
+    )
+    for font_path in font_candidates:
+        if Path(font_path).exists():
+            return ImageFont.truetype(font_path, size=size)
+    return ImageFont.load_default()
+
+
+def fit_logo(source_path: Path, size: int, logo_scale: float) -> Image.Image:
+    source = Image.open(source_path).convert("RGBA")
+    source.thumbnail((int(size * logo_scale), int(size * logo_scale)), Image.Resampling.LANCZOS)
+
+    canvas = Image.new("RGBA", (size, size), (0, 0, 0, 255))
+    x = (size - source.width) // 2
+    y = (size - source.height) // 2
+    canvas.alpha_composite(source, (x, y))
+    return canvas
+
+
+def logo_masks(logo: Image.Image) -> tuple[Image.Image, Image.Image, tuple[int, int, int, int]]:
+    rgb = logo.convert("RGB")
+    white_mask = Image.eval(rgb.convert("L"), lambda p: 255 if p > 34 else 0)
+    white_mask = white_mask.filter(ImageFilter.GaussianBlur(0.35))
+
+    ring_and_text = ImageEnhance.Contrast(white_mask).enhance(1.35)
+    exclusion = ring_and_text.filter(ImageFilter.GaussianBlur(1.2))
+    bbox = ring_and_text.getbbox()
+    if bbox is None:
+        raise ValueError("Could not detect the white circle logo in the source image.")
+    return ring_and_text, exclusion, bbox
+
+
+def circle_mask(size: int, logo_bbox: tuple[int, int, int, int]) -> Image.Image:
+    left, top, right, bottom = logo_bbox
+    inset = max(4, int(size * 0.018))
+    mask = Image.new("L", (size, size), 0)
+    draw = ImageDraw.Draw(mask)
+    draw.ellipse((left + inset, top + inset, right - inset, bottom - inset), fill=255)
+    return mask
+
+
+def stream_columns(size: int, rng: random.Random) -> list[dict[str, object]]:
+    cols: list[dict[str, object]] = []
+    for x in range(int(size * 0.18), int(size * 0.83), max(19, int(size * 0.036))):
+        if rng.random() < 0.86:
+            steps: list[int] = []
+            y = -size
+            while y < size * 2:
+                y += rng.randint(max(18, int(size * 0.033)), max(44, int(size * 0.075)))
+                if rng.random() > 0.16:
+                    steps.append(y + rng.randint(-5, 5))
+
+            cols.append(
+                {
+                    "x": x + rng.randint(-4, 4),
+                    "phase": rng.uniform(0, 1),
+                    "speed": rng.uniform(0.55, 1.28),
+                    "bits": "".join(rng.choice("01") for _ in range(max(80, len(steps) + 20))),
+                    "alpha": rng.randint(34, 58),
+                    "steps": steps,
+                    "drift": rng.choice((-1, 0, 1)),
+                }
+            )
+    return cols
