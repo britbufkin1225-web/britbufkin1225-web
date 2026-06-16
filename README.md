@@ -1,10 +1,6 @@
-<h1 align="center">dev-dev</h1>
+# dev-dev
 
-<p align="center">
-  <img src="./dev-dev-circle-binary.gif" alt="dev dev binary logo" width="320" />
-</p>
-
-<h2>dev-dev here</h2>
+## dev-dev here
 
 “To design is to communicate clearly by whatever means you can control or master.”
 — Milton Glaser
