@@ -1,11 +1,7 @@
 <h1 align="center">dev-dev</h1>
 
 <p align="center">
-  <img src="./assets/dev-dev-gold-logo-bearing-motion.gif" alt="Dev Dev animated gold circuit logo" width="600">
-</p>
-
-<p align="center">
-  <strong>Backend Development • Cybersecurity • GitHub Workflow Systems • Automation</strong>
+  <img src="./dev-dev-circle-binary.gif" alt="dev dev binary logo" width="320" />
 </p>
 
 <h2>dev-dev here</h2>
