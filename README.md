@@ -1,7 +1,7 @@
 # dev-dev
 
 <p align="center">
-  <img src="./assets/dev-dev-circle-binary.gif" alt="dev-dev binary logo" width="320" />
+  <img src="./assets/dev-dev-circle-binary.gif" alt="dev-dev binary logo" width="640" />
 </p>
 
 ## dev-dev here
