@@ -228,6 +228,37 @@ WinTidy supports my automation and tooling direction by turning scattered system
 
 ---
 
+## In the Works
+
+### GhostBrain Infinity by devdevbuilds
+
+GhostBrain Infinity is an in-progress local-first AI knowledge dashboard designed to organize, visualize, and manage records from multiple AI tools, model sources, prompt workflows, project files, and connected knowledge bases through a polished interactive interface.
+
+**Tech Focus:**
+Local AI workflows, dashboard UI, source/model registries, data visualization, import/export persistence, graph logic, metadata cleanup, project organization, Obsidian integration, frontend/backend planning
+
+**Planned Direction:**
+
+* Build a clean new app foundation instead of patching a broken dashboard forward
+* Create a dark metallic dashboard interface with raised/embossed controls
+* Organize AI records by source, model, category, and project context
+* Support sources such as ChatGPT, Codex, Claude, Gemini, Midjourney, local models, manual notes, and research files
+* Provide an Obsidian-style source/model registry
+* Integrate with Obsidian vaults to import, organize, and connect notes alongside AI-generated records
+* Support markdown-based workflows and preserve links, tags, and note relationships from existing Obsidian knowledge bases
+* Display records through an interactive vault-style graph inspired by connected knowledge management systems
+* Include filtering, node inspection, activity feeds, import/export tools, and local persistence
+* Clean metadata and reduce clutter from AI session exports
+* Create a polished portfolio-ready interface under the devdevbuilds brand system
+
+**Backend Skill Signal:**
+Shows planning around data modeling, source registries, Obsidian vault integration, import/export workflows, local persistence, structured records, metadata handling, graph relationships, and dashboard-connected logic for AI workflow management.
+
+**Portfolio Value:**
+GhostBrain Infinity demonstrates a stronger full-system direction: local AI organization, backend-style data thinking, interactive dashboard design, source tracking, Obsidian-compatible knowledge management, and practical tooling for managing modern AI workflows without letting every export turn into a haunted junk drawer.
+
+---
+
 ## Supporting Technical + Documentation Projects
 
 ### devdevbuilds Icon Pack
