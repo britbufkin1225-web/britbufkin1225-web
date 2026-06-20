@@ -6,9 +6,15 @@
 
 ## devdevbuilds
 
-“To design is to communicate clearly by whatever means you can control or master.”
-— Milton Glaser
+> “To design is to communicate clearly by whatever means you can control or master.”  
+> — Milton Glaser
 
 Backend-focused developer and cybersecurity student building practical software across APIs, databases, event processing, automation, defensive tooling, GIS backends, local AI systems, dashboards, and technical documentation.
 
-I
+I focus on backend engineering, security-aware application design, database-backed systems, API documentation, repository organization, and projects that turn real workflows into usable software.
+
+---
+
+## Backend Profile
+
+My strongest portfolio direction is backend development: designing APIs, validating requests,
