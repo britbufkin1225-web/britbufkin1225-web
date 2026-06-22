@@ -1,7 +1,7 @@
 # devdevbuilds
 
 <p align="center">
-  <img src="./assets/devdevbuilds_chrome_pulse.gif" alt="devdevbuilds chrome pulse logo" width="260" />
+  <img src="./assets/devdevbuilds_chrome_pulse.gif" alt="devdevbuilds chrome pulse logo" width="420" />
 </p>
 
 ## Backend-focused developer · Cybersecurity student · Practical systems builder
